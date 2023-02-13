@@ -4,7 +4,7 @@
     font-family: 'Courier New', Courier, monospace;
 }
  .title{
-    color: white;
+    color: black;
     display: flex;
     justify-content: space-around;
  }
